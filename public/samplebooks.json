@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "description": "A book titled 'To Kill a Mockingbird' by Harper Lee in the Fiction category.",
+    "rating": 4.2,
+    "cover": "https://picsum.photos/200/300?random=1"
+  },
+  {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Fiction",
+    "description": "A book titled 'Pride and Prejudice' by Jane Austen in the Fiction category.",
+    "rating": 4.7,
+    "cover": "https://picsum.photos/200/300?random=2"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Fiction",
+    "description": "A book titled 'The Great Gatsby' by F. Scott Fitzgerald in the Fiction category.",
+    "rating": 4.8,
+    "cover": "https://picsum.photos/200/300?random=3"
+  },
+  {
+    "id": 4,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Fiction",
+    "description": "A book titled 'The Catcher in the Rye' by J.D. Salinger in the Fiction category.",
+    "rating": 3.7,
+    "cover": "https://picsum.photos/200/300?random=4"
+  },
+  {
+    "id": 5,
+    "title": "Jane Eyre",
+    "author": "Charlotte Bront\u00eb",
+    "category": "Fiction",
+    "description": "A book titled 'Jane Eyre' by Charlotte Bront\u00eb in the Fiction category.",
+    "rating": 4.1,
+    "cover": "https://picsum.photos/200/300?random=5"
+  },
+  {
+    "id": 6,
+    "title": "Wuthering Heights",
+    "author": "Emily Bront\u00eb",
+    "category": "Fiction",
+    "description": "A book titled 'Wuthering Heights' by Emily Bront\u00eb in the Fiction category.",
+    "rating": 5.0,
+    "cover": "https://picsum.photos/200/300?random=6"
+  },
+  {
+    "id": 7,
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "category": "Fiction",
+    "description": "A book titled 'Little Women' by Louisa May Alcott in the Fiction category.",
+    "rating": 3.7,
+    "cover": "https://picsum.photos/200/300?random=7"
+  },
+  {
+    "id": 8,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "category": "Fiction",
+    "description": "A book titled 'The Book Thief' by Markus Zusak in the Fiction category.",
+    "rating": 3.9,
+    "cover": "https://picsum.photos/200/300?random=8"
+  },
+  {
+    "id": 9,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "description": "A book titled 'The Alchemist' by Paulo Coelho in the Fiction category.",
+    "rating": 3.7,
+    "cover": "https://picsum.photos/200/300?random=9"
+  },
+  {
+    "id": 10,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "category": "Fiction",
+    "description": "A book titled 'The Kite Runner' by Khaled Hosseini in the Fiction category.",
+    "rating": 4.1,
+    "cover": "https://picsum.photos/200/300?random=10"
+  },
+  {
+    "id": 11,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "Non-Fiction",
+    "description": "A book titled 'Sapiens' by Yuval Noah Harari in the Non-Fiction category.",
+    "rating": 3.8,
+    "cover": "https://picsum.photos/200/300?random=11"
+  },
+  {
+    "id": 12,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Non-Fiction",
+    "description": "A book titled 'Educated' by Tara Westover in the Non-Fiction category.",
+    "rating": 4.5,
+    "cover": "https://picsum.photos/200/300?random=12"
+  },
+  {
+    "id": 13,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "category": "Non-Fiction",
+    "description": "A book titled 'Becoming' by Michelle Obama in the Non-Fiction category.",
+    "rating": 4.1,
+    "cover": "https://picsum.photos/200/300?random=13"
+  },
+  {
+    "id": 14,
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "category": "Non-Fiction",
+    "description": "A book titled 'The Immortal Life of Henrietta Lacks' by Rebecca Skloot in the Non-Fiction category.",
+    "rating": 4.0,
+    "cover": "https://picsum.photos/200/300?random=14"
+  },
+  {
+    "id": 15,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Non-Fiction",
+    "description": "A book titled 'Thinking, Fast and Slow' by Daniel Kahneman in the Non-Fiction category.",
+    "rating": 4.0,
+    "cover": "https://picsum.photos/200/300?random=15"
+  },
+  {
+    "id": 16,
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "category": "Non-Fiction",
+    "description": "A book titled 'The Wright Brothers' by David McCullough in the Non-Fiction category.",
+    "rating": 4.0,
+    "cover": "https://picsum.photos/200/300?random=16"
+  },
+  {
+    "id": 17,
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "category": "Non-Fiction",
+    "description": "A book titled 'Outliers' by Malcolm Gladwell in the Non-Fiction category.",
+    "rating": 5.0,
+    "cover": "https://picsum.photos/200/300?random=17"
+  },
+  {
+    "id": 18,
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "category": "Non-Fiction",
+    "description": "A book titled 'Into the Wild' by Jon Krakauer in the Non-Fiction category.",
+    "rating": 3.7,
+    "cover": "https://picsum.photos/200/300?random=18"
+  },
+  {
+    "id": 19,
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "category": "Non-Fiction",
+    "description": "A book titled 'The Glass Castle' by Jeannette Walls in the Non-Fiction category.",
+    "rating": 3.8,
+    "cover": "https://picsum.photos/200/300?random=19"
+  },
+  {
+    "id": 20,
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "category": "Non-Fiction",
+    "description": "A book titled 'Born a Crime' by Trevor Noah in the Non-Fiction category.",
+    "rating": 4.0,
+    "cover": "https://picsum.photos/200/300?random=20"
+  },
+  {
+    "id": 21,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Dune' by Frank Herbert in the Sci-Fi category.",
+    "rating": 3.8,
+    "cover": "https://picsum.photos/200/300?random=21"
+  },
+  {
+    "id": 22,
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Ender's Game' by Orson Scott Card in the Sci-Fi category.",
+    "rating": 4.1,
+    "cover": "https://picsum.photos/200/300?random=22"
+  },
+  {
+    "id": 23,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Neuromancer' by William Gibson in the Sci-Fi category.",
+    "rating": 4.3,
+    "cover": "https://picsum.photos/200/300?random=23"
+  },
+  {
+    "id": 24,
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Snow Crash' by Neal Stephenson in the Sci-Fi category.",
+    "rating": 4.3,
+    "cover": "https://picsum.photos/200/300?random=24"
+  },
+  {
+    "id": 25,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "category": "Sci-Fi",
+    "description": "A book titled 'The Martian' by Andy Weir in the Sci-Fi category.",
+    "rating": 4.5,
+    "cover": "https://picsum.photos/200/300?random=25"
+  },
+  {
+    "id": 26,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Ready Player One' by Ernest Cline in the Sci-Fi category.",
+    "rating": 5.0,
+    "cover": "https://picsum.photos/200/300?random=26"
+  },
+  {
+    "id": 27,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Foundation' by Isaac Asimov in the Sci-Fi category.",
+    "rating": 4.0,
+    "cover": "https://picsum.photos/200/300?random=27"
+  },
+  {
+    "id": 28,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Brave New World' by Aldous Huxley in the Sci-Fi category.",
+    "rating": 4.7,
+    "cover": "https://picsum.photos/200/300?random=28"
+  },
+  {
+    "id": 29,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "category": "Sci-Fi",
+    "description": "A book titled 'Fahrenheit 451' by Ray Bradbury in the Sci-Fi category.",
+    "rating": 4.3,
+    "cover": "https://picsum.photos/200/300?random=29"
+  },
+  {
+    "id": 30,
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "category": "Sci-Fi",
+    "description": "A book titled 'The Time Machine' by H.G. Wells in the Sci-Fi category.",
+    "rating": 4.3,
+    "cover": "https://picsum.photos/200/300?random=30"
+  },
+  {
+    "id": 31,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Mystery",
+    "description": "A book titled 'Gone Girl' by Gillian Flynn in the Mystery category.",
+    "rating": 4.4,
+    "cover": "https://picsum.photos/200/300?random=31"
+  },
+  {
+    "id": 32,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "category": "Mystery",
+    "description": "A book titled 'The Girl with the Dragon Tattoo' by Stieg Larsson in the Mystery category.",
+    "rating": 4.4,
+    "cover": "https://picsum.photos/200/300?random=32"
+  },
+  {
+    "id": 33,
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "category": "Mystery",
+    "description": "A book titled 'Big Little Lies' by Liane Moriarty in the Mystery category.",
+    "rating": 4.7,
+    "cover": "https://picsum.photos/200/300?random=33"
+  },
+  {
+    "id": 34,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Mystery",
+    "description": "A book titled 'The Da Vinci Code' by Dan Brown in the Mystery category.",
+    "rating": 4.2,
+    "cover": "https://picsum.photos/200/300?random=34"
+  },
+  {
+    "id": 35,
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "category": "Mystery",
+    "description": "A book titled 'The Woman in White' by Wilkie Collins in the Mystery category.",
+    "rating": 3.7,
+    "cover": "https://picsum.photos/200/300?random=35"
+  },
+  {
+    "id": 36,
+    "title": "In the Woods",
+    "author": "Tana French",
+    "category": "Mystery",
+    "description": "A book titled 'In the Woods' by Tana French in the Mystery category.",
+    "rating": 4.4,
+    "cover": "https://picsum.photos/200/300?random=36"
+  },
+  {
+    "id": 37,
+    "title": "The Reversal",
+    "author": "Michael Connelly",
+    "category": "Mystery",
+    "description": "A book titled 'The Reversal' by Michael Connelly in the Mystery category.",
+    "rating": 4.3,
+    "cover": "https://picsum.photos/200/300?random=37"
+  },
+  {
+    "id": 38,
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "category": "Mystery",
+    "description": "A book titled 'And Then There Were None' by Agatha Christie in the Mystery category.",
+    "rating": 4.3,
+    "cover": "https://picsum.photos/200/300?random=38"
+  },
+  {
+    "id": 39,
+    "title": "The Cuckoo's Calling",
+    "author": "Robert Galbraith",
+    "category": "Mystery",
+    "description": "A book titled 'The Cuckoo's Calling' by Robert Galbraith in the Mystery category.",
+    "rating": 4.8,
+    "cover": "https://picsum.photos/200/300?random=39"
+  },
+  {
+    "id": 40,
+    "title": "Before I Go to Sleep",
+    "author": "S.J. Watson",
+    "category": "Mystery",
+    "description": "A book titled 'Before I Go to Sleep' by S.J. Watson in the Mystery category.",
+    "rating": 4.0,
+    "cover": "https://picsum.photos/200/300?random=40"
+  }
+]
